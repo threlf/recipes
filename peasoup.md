@@ -1,6 +1,6 @@
 <!--ingredients-->
--peas
--spring onions
--potato
+-peas £1.20
+-spring onions 40p
+-potato 12p
 <!--instructions -->
 
