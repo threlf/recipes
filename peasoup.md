@@ -1,6 +1,6 @@
 <!--ingredients-->
 -peas
--onions
+-spring onions
 -potato
 <!--instructions -->
 
